@@ -1,6 +1,6 @@
 # landing page generator
 
-Это простая CMS для создания лендингов и простых сайтов. Состоит из 2 частей:
+This is a simple CMS for creating landing pages and simple websites. Consists of 2 parts:
 
-- Управляющий компонент Joomla - выступает в роли админ панели.
-- Фронтальная часть действующая по приницу мультисайта (общее ядро для нескольких сайтов). Каждому сайту можно создать свой индивидуальный шаблон.
+- Joomla control component - acts as an admin panel.
+- The front part is based on the principle of multisite (a common core for several sites). Each site can create its own individual template.
